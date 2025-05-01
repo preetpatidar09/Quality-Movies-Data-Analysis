@@ -10,6 +10,7 @@ AWS - Glue ETL JOB for transformation
 AWS - Athena for Query and analyze
 
 1st step - I create a IAM role that have all policies to run this techstack
+![image_alt](https://github.com/preetpatidar09/Quality-Movies-Data-Analysis/blob/main/Screenshot%202025-05-01%20083857.png?raw=true)
 
 2nd step - store raw data file in s3 bucket in this path s3://movies-data-raw/tmdb_5000_movies.csv
 
