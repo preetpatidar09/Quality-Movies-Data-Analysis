@@ -9,6 +9,10 @@ AWS - Glue crawler and catalogue for data columns information
 AWS - Glue ETL JOB for transformation
 AWS - Athena for Query and analyze
 
+
+![image_alt](https://github.com/preetpatidar09/Quality-Movies-Data-Analysis/blob/main/OIP.jpg?raw=true)
+
+
 1st step - I create a IAM role that have all policies to run this techstack
 
 ![image_alt](https://github.com/preetpatidar09/Quality-Movies-Data-Analysis/blob/main/image.png?raw=true)
@@ -37,4 +41,4 @@ in parquet format
 ![image_alt](https://github.com/preetpatidar09/Quality-Movies-Data-Analysis/blob/main/Screenshot%202025-05-01%20084314.png?raw=true)
 
 9th step - sns for notification published by lamba and seen in SMS 
-![image_alt]()
+![image_alt](https://github.com/preetpatidar09/Quality-Movies-Data-Analysis/blob/main/WhatsApp%20Image%202025-05-01%20at%2013.53.19_1c2b0e57.jpg?raw=true)
